@@ -1,5 +1,3 @@
-// Nombre del archivo: EjemploAnalisis.java
-
 // Importamos las librerías necesarias
 import java.util.ArrayList;
 import java.util.List;
